@@ -1,0 +1,110 @@
+body {
+    margin: 0;
+  }
+
+  .main-section {
+    padding: 20px;
+  }
+
+  .image-container {
+    height: 500px;
+    background-image: url('https://static1.evcdn.net/images/reduction/351741_w-3840_h-2160_q-70_m-crop.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+
+  .image-container1 {
+    height: 500px;
+    background-image: url('https://static2-viaggi.corriereobjects.it/wp-content/uploads/2024/01/5_Brasile_San_Paolo_iStock-1080x540.jpg?v=1706614349');
+    background-size: cover;
+    background-position: center;
+  }
+
+  .image-container2 {
+    height: 500px;
+    background-image: url('https://www.scopribuenosaires.com/f/argentina/buenos-aires/guia/cataratas-iguazu.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+
+  .image-container3 {
+    height: 500px;
+    background-image: url('https://cdn.getyourguide.com/img/location/5ca316cdb821c.jpeg/99.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+
+  .image-container4 {
+    height: 500px;
+    background-image: url('https://www.costacruceros.com/content/dam/costa/costa-magazine/article-images/what-to-see-in-salvador-de-bahia/salvador-de-bahia-quartiere-barra.jpg.image.694.390.low.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+
+  .image-container5 {
+    height: 500px;
+    background-image: url('https://i0.wp.com/casaldemochilao.com.br/wp-content/uploads/2017/08/morro-dois-irm%C3%A3os-vista-topo1-1024x683.jpg?resize=1024%2C683');
+    background-size: cover;
+    background-position: center;
+  }
+
+  h1 {
+    font-family: 'Prata';
+    font-size: 64px;
+    font-weight: 400;
+    margin-bottom: 0;
+    color: white;
+  }
+
+  h3 {
+    font-family: 'Prata';
+    font-size: 24px;
+    font-weight: 400;
+    margin-top: 0;
+    margin-bottom: 0;
+    color: white;
+  }
+
+  body {
+    font-family: 'Montserrat';
+  }
+
+  p {
+    margin-bottom: 0;
+  }
+
+  a {
+    font-weight: 600;
+    font-style: italic;
+  }
+
+  h6 {
+    padding: 22px;
+    margin-top: 56px;
+    margin-bottom: 0;
+    color: white;
+    border-radius: 6px;
+    background: linear-gradient(to right, #5B9833, #5FBEBE);
+  }
+
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+
+  li {
+    padding: 6px 22px;
+    border-bottom: 1px solid #dfdfdf;
+  }
+
+  li a {
+    text-decoration: none;
+    color: green;
+  }
+
+ .homepage-link {
+    background-color: black;
+    color: white;
+    padding: 16px;
+    text-align: center;
+  }
